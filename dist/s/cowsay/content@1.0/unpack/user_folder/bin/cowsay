@@ -1,0 +1,2 @@
+env.term.println(env.args[1]);
+env.term.println(`${await w96.FS.readstr("C:/user/bin/cow.txt")}`);
